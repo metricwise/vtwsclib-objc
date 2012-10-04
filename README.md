@@ -8,7 +8,7 @@ The NSJSONSerialization class was not introduced until iOS 5, but the iPhone 3G 
 
 ### [vtiger CRM Webservice Client Library](http://forge.vtiger.com/projects/vtwsclib)
 
-Though based on the PHP vtwsclib, this library does not currently implement all of its methods.  It does however provide a new doPostFile method that allows you to upload files to the Documents module.
+Though based on the PHP vtwsclib, this library does not currently implement all of its methods.  It does however provide an improved doCreate method that allows you to upload files to the Documents module.
 
 ## Additional Documentation
 
