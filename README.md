@@ -1,5 +1,9 @@
 # vtwsclib for Objective C
 
+## Licensing
+
+MIT + BSD
+
 ## Dependencies
 
 ### [JSON Framework](https://github.com/stig/json-framework)
